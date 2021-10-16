@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\mydev.Algos.Contracts\mydev.Algos.Contracts.csproj" />
+    <ProjectReference Include="..\mydev.Algos.BinaryTree\mydev.Algos.BinaryTree.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
